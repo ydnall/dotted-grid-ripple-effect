@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the result of following the tutorial from [The Coding Train](https://www.youtube.com/watch?v=ZjVyKXp9hec) on how to create a ripple effect.
+This is the result of following the tutorial from [The Coding Train](https://www.youtube.com/watch?v=BZUdGqeOD0w&t=8s) on how to create a ripple effect.
 
 ## How to run
 All you have to do is build a vite project using react and typescript and replace the files in the src folder with the ones in this repository.
